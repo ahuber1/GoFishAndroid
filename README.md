@@ -55,4 +55,4 @@ This dialog appears when someone wins the game.
 [winner]: https://github.com/ahuber1/GoFishAndroid/blob/master/screenshots/WinnerDialog.png?raw=true "Winner Dialog"
 
 [jolt]: https://github.com/ahuber1/GoFishAndroid/blob/master/images/jolt.png?raw=true "Jolting a device"
-[slam]: https://github.com/ahuber1/GoFishAndroid/blob/master/images/jolt.png?raw=true "Slamming the device"
+[slam]: https://github.com/ahuber1/GoFishAndroid/blob/master/images/slam.png?raw=true "Slamming the device"

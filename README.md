@@ -39,8 +39,6 @@ One of the unique aspects of this Android app is the ability to use what I call 
 
 ![slam.png cannot be found][slam]
 
-----
-
 **Jolt.** The user can jolt the device to the left or right (i.e., move the device quickly left or right). When this gesture is performed, a pop up asking if the user would like to return to the main menu is performed.
 
 ![jolt.png cannot be found][jolt]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GoFishAndroidActivity!</string>
+    <string name="app_name">Droid Fish!</string>
+    <string name="default_player_name">Insert player name here...</string>
+    <string name="default_message_string">Insert message here...…</string>
+    <string name="your_hand_string">Your Hand</string>
+    <string name="your_pairs_string">Your Pairs</string>
+    <string name="other_pairs_string">Others\' Pairs</string>
+    <string name="conversation_thread_string">Conversation Thread</string>
+    <string name="no_pairs_string">No pairs...</string>
+    <string name="pairs_found">"Pairs were found for player "</string>
+    <string-array name="email_addresses">
+        <item >andrewhuber93@me.com</item>
+    </string-array>
+        <string name="ask_string">Ask</string>
+        <string name="confirmation_string">Do you confirm your selections?</string>
+        <string name="player_name_hint_string">Enter another player\'s name</string>
+        <string name="welcome_string">Welcome to Go Fish!</string>
+        <string name="computer_game">Computer Game</string>
+        <string name="mutiplayer_game">Multiplayer Game</string>
+        <string name="main_player_hint">Enter main player\'s name</string>
+        <string name="delete_player_string">Delete</string>
+        <string name="start_game_button">Start game!</string>
+        <string name="add_player_string">Add player</string>
+        <string name="pause_string">Pause Game</string>
+        <string name="pause_string_condensed">Pause</string>
+        <string name="sort_hand_string">Sort Hand</string>
+        <string name="sort_hand_condensed_string">Sort</string>
+        <string name="restart_string">Restart Game</string>
+        <string name="restart_string_condensed">Restart</string>
+        <string name="main_menu_string">Go to Main Menu</string>
+        <string name="main_menu_string_condensed">Main Menu</string>
+        <string name="undo_sort_string">Undo Sort Hand</string>
+        <string name="undo_sort_hand_string_condensed">Undo Sort</string>
+
+</resources>

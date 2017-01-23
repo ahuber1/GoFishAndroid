@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/otherPairsTableLayoutComponentTableLayout"
+    style="@style/black_table_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TableRow
+        android:id="@+id/otherPairsTableRow1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/otherPairsPlayerNameTextView"
+            style="@style/header_text"
+            android:gravity="left"
+            android:text="@string/default_player_name" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1" android:padding="5dp"/>
+    </TableRow>
+
+</TableLayout>

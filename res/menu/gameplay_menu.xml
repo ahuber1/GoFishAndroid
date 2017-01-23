@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/pauseItem" 
+        android:orderInCategory="1" 
+        android:title="@string/pause_string"
+        android:icon="@android:drawable/ic_media_pause" 
+        android:alphabeticShortcut="p">
+    </item>
+    <item android:id="@+id/sortItem" 
+        android:icon="@android:drawable/ic_menu_sort_alphabetically" 
+        android:orderInCategory="2" 
+        android:alphabeticShortcut="s" 
+        android:title="@string/sort_hand_string">
+        
+    </item>
+    <item android:id="@+id/restartItem" 
+        android:icon="@android:drawable/ic_menu_revert"  
+        android:orderInCategory="3" 
+        android:alphabeticShortcut="r" 
+        android:title="@string/restart_string">
+    </item>
+    <item android:id="@+id/mainMenuItem" 
+        android:orderInCategory="4"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel" 
+        android:title="@string/main_menu_string" 
+        android:alphabeticShortcut="m">
+    </item>
+</menu>

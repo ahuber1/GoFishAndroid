@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/conversastionThreadTableLayoutComponentTableLayout"
+    style="@style/white_table_layout"
+    android:visibility="visible" android:layout_height="wrap_content" android:layout_width="match_parent" android:background="@drawable/white_table_layout_background">
+
+    <TableRow
+        android:id="@+id/conversationThreadTableRow1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/conversationThreadPlayerNameTextView"
+            style="@style/conversation_thread_text"
+            android:text="@string/default_player_name" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/conversationThreadTableRow2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/conversationThreadMessageTextView"
+            style="@style/conversation_thread_text"
+            android:text="@string/default_message_string"
+            android:textStyle="italic" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </TableRow>
+
+</TableLayout>
